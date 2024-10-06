@@ -1,0 +1,2 @@
+# Decorator-Example
+Декоратор
